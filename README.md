@@ -1,2 +1,2 @@
-# todolist
-a todolist project (written in PHP CI4)
+# CodeIgniter4-Teaching
+There are some features included and used for class teaching.
